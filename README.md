@@ -81,12 +81,6 @@ Hello ! 👋 Welcome to My Repositories &nbsp; <img src="https://hits.seeyoufarm
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ji0506&hide=jupyternotebook,java&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
 ### Profile
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ji0506&layout=compact"><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=ji0506&show_icons=true">
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbyeongseokim&count_bg=%23B2D5FF&title_bg=%23858486&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false)](https://github.com/byeongseokim)
-
-
 |[![ji05066's GitHub stats](https://github-readme-stats.vercel.app/api?username=ji0506&include_all_commits=true&theme=swift&hide_border=true&count_private=true&locale=kr&disable_animations=false&show_owner=false&&theme=buefyhide_border=true")](https://github.com/ji0506)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ji0506&langs_count=10&hide=html&layout=compact&custom_title=많이사용되는언어&hide_border=true)
 | ------------- | ------------- |
 
