@@ -18,8 +18,8 @@ Hello ! 👋 Welcome to My Repositories &nbsp; <img src="https://hits.seeyoufarm
 <img src="https://img.shields.io/badge/MFC-E21A2C?style=for-the-badge&logo=mfc&logoColor=white">
   <br><br>
 <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
-<img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white"><br><br>
-
+<img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white">
+  <br><br>
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
 <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white">
@@ -40,7 +40,7 @@ Hello ! 👋 Welcome to My Repositories &nbsp; <img src="https://hits.seeyoufarm
 <img src="https://img.shields.io/badge/node.js-74b816?style=for-the-badge&logo=node.js&logoColor=fff"/>
 <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=NestJS&logoColor=fff"/>
 <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=fff"/> 
-<img src="https://img.shields.io/badge/-C%23-4169E1?style=for-the-badge&logo=Csharp&style=flat&logoColor=fff"">
+<img src="https://img.shields.io/badge/-C%23-4169E1?style=for-the-badge&logo=Csharp&logoColor=fff"">
 
 </h4>
 
