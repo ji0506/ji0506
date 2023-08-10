@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:66d9e8,100:eebefa&height=350&section=header&text=jiwan's%20GitHub&animation=twinkling&fontSize=50&fontColor=ffffff&fontAlignY=41&desc=Web%20Back%20End%20Developer&rotate=0)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:66d9e8,100:eebefa&height=350&section=header&text=yoonOcean's%20GitHub&animation=twinkling&fontSize=50&fontColor=ffffff&fontAlignY=41&desc=Web%20Front%20End%20Developer&rotate=0)
 
 <h3 align="center">
 Hello ! 👋 Welcome to My Repositories &nbsp; <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsteven-yn&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
@@ -19,9 +19,7 @@ Hello ! 👋 Welcome to My Repositories &nbsp; <img src="https://hits.seeyoufarm
 <br><br>
 <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
 <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white"><br><br>
-<!-- <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=fff"/> -->
 <br><br>
-<!-- <img src="https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=fff"/>
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
 <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white">
@@ -43,6 +41,7 @@ Hello ! 👋 Welcome to My Repositories &nbsp; <img src="https://hits.seeyoufarm
 <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=Rust&logoColor=fff" />
 <img src="https://img.shields.io/badge/node.js-74b816?style=for-the-badge&logo=node.js&logoColor=fff"/>
 <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=NestJS&logoColor=fff"/>
+<img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=fff"/> 
 </h4>
 
 ---
