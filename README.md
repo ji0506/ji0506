@@ -9,19 +9,17 @@ Hello ! 👋 Welcome to My Repositories &nbsp; <img src="https://hits.seeyoufarm
 #### 👩🏻‍💻 주 사용 Skill & Stack
 
 <h4>
-<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=000"/>
-<img src="https://img.shields.io/badge/github_action-2088FF?style=for-the-badge&logo=github_action&logoColor=fff"/>
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=000"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c++&logoColor=white">
 <img src="https://img.shields.io/badge/MFC-E21A2C?style=for-the-badge&logo=mfc&logoColor=white">
   <br><br>
 <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
 <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white"><br><br>
 
-  <br><br>
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
 <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white">
@@ -42,6 +40,8 @@ Hello ! 👋 Welcome to My Repositories &nbsp; <img src="https://hits.seeyoufarm
 <img src="https://img.shields.io/badge/node.js-74b816?style=for-the-badge&logo=node.js&logoColor=fff"/>
 <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=NestJS&logoColor=fff"/>
 <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=fff"/> 
+<img src="https://img.shields.io/badge/C#-00599C?style=for-the-badge&logo=c++&logoColor=white">
+
 </h4>
 
 ---
@@ -51,12 +51,19 @@ Hello ! 👋 Welcome to My Repositories &nbsp; <img src="https://hits.seeyoufarm
 | Date | Contents | |
 |:---:|:---:|:---:|
 | 23.07 ~ 23.07 | 학습용 홈쇼핑 웹 개발
+| 23.06 ~ 23.06 | 학습용 카페 프로젝트 개발
 | 23.04 ~ 23.05 | 학원 내 택배 관련 프로젝트 개발
 | 23.04 ~ 23.08 | 자바 풀스택 관련하여 강의 수강중
+| 21.09 ~ 22.01 | 양천구 지능형 감지 웹 개발 진행
 | 20.05 ~ 22.01 | 성동구 차량정차 웹 유지보수 및 개발
 | 20.05 ~ 22.01 | 서울시 노후경유차 유지보수 및 개발
-| 15.01 ~ 20.04 | mfc, c++, spring, jsp 등 프로젝트 개발진행 
+| 19.01 ~ 20.04	| 인천 노후경유차 웹 개발 및 유지보수
+| 19.05 ~ 19.12 | 인천 IOT 미추홀주차정보 안내시스템 웹 유지보수
+| 17.07 ~ 17.11 | 서울 노후경유차 프로그램 스냅샷 개발
+| 17.05 ~ 17.10 | 서울 뚝섬 수상구조대 웹 개발 및 유지보수
+| 16.05 ~ 16.10 | 롯데 은평몰 유지보수
 | 15.03 ~ 19.03 | 정보통신 공학과 학사 졸업 | 한국산업기술대학교 |
+| 15.01 ~ 20.04 | mfc, c++, spring, jsp 등으로 프로젝트 개발진행 
   
 </div>
 
