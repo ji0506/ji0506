@@ -40,7 +40,7 @@ Hello ! 👋 Welcome to My Repositories &nbsp; <img src="https://hits.seeyoufarm
 <img src="https://img.shields.io/badge/node.js-74b816?style=for-the-badge&logo=node.js&logoColor=fff"/>
 <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=NestJS&logoColor=fff"/>
 <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=fff"/> 
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c++&logoColor=white">
+<img src="https://img.shields.io/badge/-C%23-4169E1?style=for-the-badge&logo=Csharp&style=flat&logoColor=fff"">
 
 </h4>
 
